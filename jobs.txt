@@ -1,0 +1,13 @@
+**********29/08/2023**********
+* R24: Check-out             *
+* R11: Check-out             *
+* R34: Check-out             *
+* R23: Check-out             *
+* R33: Πετσέτες              *
+* R15: Γενικό                *
+* R12: Check-out             *
+* R35: Check-out             *
+* R31: Check-out             *
+* R21: Check-out             *
+* R15: Check-out             *
+******************************
