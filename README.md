@@ -32,8 +32,8 @@ run `pip install requiremements.txt`
 
 ## Contributing
 
-Provide instructions on how to contribute to your project.
+WIP
 
 ## License
 
-Provide information about the license.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. See the [LICENSE](LICENSE) file for details.
